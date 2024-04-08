@@ -2,7 +2,7 @@ class Automata {
     constructor(game) {
         this.game = game;
         this.automata = [];
-        this.height = 100;
+        this.height = 200;
         this.width = 200;
         this.tickCount = 0;
         this.ticks = 0;
